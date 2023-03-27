@@ -8,7 +8,8 @@ If the acronym is guessed, the user clicks "I know" and the card is moved into t
 
 If the user does not know the acryonym, they can reveal the answer, but the card remains in the first box.
 
-<img width="1370" alt="Screenshot 2023-03-26 at 8 21 56 PM" src="https://user-images.githubusercontent.com/127066402/227835006-7077cbe6-a3a4-4690-a7c5-adab82f33829.png">
+<img width="1370" alt="Screenshot 2023-03-26 at 8 50 02 PM" src="https://user-images.githubusercontent.com/127066402/227836624-531eb59a-8259-4323-864d-44e6e526a60b.png">
+
 
 The system is effective because as the user progresses through the cards, the most known cards will be moved to higher boxes and the not known will be sent back to box 1.  The user's goal is get all the cards to box 5, which would mean that they successfully guessed each acronym at least four times.
 
